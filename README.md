@@ -49,8 +49,8 @@
 ### Knowledge Graphs
 ![RDF](https://img.shields.io/badge/RDF-0088CC?style=for-the-badge&logo=data‑format&logoColor=white)
 ![SPARQL](https://img.shields.io/badge/SPARQL-0088CC?style=for‑the‑badge&logo=spdx&logoColor=white)
-![OWL](https://img.shields.io/badge/OWL‑2.0‑2E6F95?style=for‑the‑badge&logo=owl&logoColor=white)
-![RDFa](https://img.shields.io/badge/RDFa‑1.1‑2E6F95?style=for‑the‑badge&logo=html5&logoColor=white)
+[![OWL](https://img.shields.io/badge/Ontology-OWL-blueviolet?logo=semanticweb)](https://www.w3.org/OWL/)
+[![RDFa](https://img.shields.io/badge/Metadata-RDFa-blue?logo=semanticweb)](https://www.w3.org/TR/rdfa-primer/)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
